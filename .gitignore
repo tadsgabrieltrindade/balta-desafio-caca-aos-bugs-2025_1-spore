@@ -482,3 +482,10 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+
+#Não versionar as variáveis de ambiente
+appsettings.json
+appsettings.Development.json
+/.vscode
+/src/appsettings.Development.json
